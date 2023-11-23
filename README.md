@@ -1,7 +1,7 @@
-- 👋 Hola, soy @germanCAST
-- 👀 Me gustan ver peliculas animadas de Batman 
-- 🌱 Actualmente estudio Ingenieria en sistemas de informacion
-- 📫 Contacto : gcasatellanose@miumg.edu.gt
+- 👋 Hola, soy German Castellanos. @germanCAST.
+- 👀 Me gusta ver peliculas animadas de Batman.
+- 🚀 Pensum CERRADO, Ingeniería en Sistemas de Informacion.
+- 📫 Contacto : gcasatellanose@miumg.edu.gt ó germancastellanose@gmail.com
 
 <!---
 germanCAST/germanCAST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
