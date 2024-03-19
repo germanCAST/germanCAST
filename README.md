@@ -1,5 +1,4 @@
 - 👋 Hola, soy German Castellanos. @germanCAST.
-- 👀 Me gusta ver peliculas animadas de Batman.
 - 🚀 Pensum CERRADO, Ingeniería en Sistemas de Informacion.
 - 📫 Contacto : gcasatellanose@miumg.edu.gt ó germancastellanose@gmail.com
 
