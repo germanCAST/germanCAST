@@ -1,5 +1,5 @@
 - 👋 Hola, soy German Castellanos. @germanCAST.
-- 🚀 Pensum CERRADO, Ingeniería en Sistemas de Informacion.
+- 🚀 Ingeniería en Sistemas de Informacion.
 - 📫 Contacto : gcasatellanose@miumg.edu.gt ó germancastellanose@gmail.com
 
 <!---
