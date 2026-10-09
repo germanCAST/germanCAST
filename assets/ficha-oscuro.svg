@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="260" viewBox="0 0 880 260" role="img" aria-labelledby="title desc">
+  <title id="title">German Castellanos, desarrollo móvil y full stack</title>
+  <desc id="desc">En producción: apps para Claro Centroamérica y Movistar El Salvador. Flutter, .NET y React. Guatemala, disponible para trabajo remoto.</desc>
+  <style>
+    text { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+    .name { font-size: 42px; font-weight: 700; fill: #E6ECF5; letter-spacing: -0.5px; }
+    .role { font-size: 21px; font-weight: 400; fill: #E6ECF5; }
+    .soft { font-size: 16px; fill: #9AA8BE; }
+    .status { font-size: 16px; font-weight: 600; fill: #3CC79A; }
+    .body { font-size: 16px; fill: #E6ECF5; }
+  </style>
+  <rect x="1" y="1" width="878" height="258" rx="14" fill="#0D1626" stroke="#22314A" stroke-width="2"/>
+  <text x="40" y="78" class="name">German Castellanos</text>
+  <text x="40" y="114" class="role">Desarrollo móvil y full stack</text>
+  <line x1="40" y1="146" x2="840" y2="146" stroke="#22314A" stroke-width="1.5"/>
+  <circle cx="47" cy="179" r="6" fill="#3CC79A"/>
+  <circle cx="47" cy="179" r="10.5" fill="none" stroke="#3CC79A" stroke-opacity="0.35" stroke-width="2"/>
+  <text x="66" y="185" class="status">En producción</text>
+  <text x="196" y="185" class="body">Apps para Claro Centroamérica y Movistar El Salvador</text>
+  <text x="40" y="224" class="soft">Flutter, .NET y React. Guatemala, disponible para trabajo remoto.</text>
+</svg>

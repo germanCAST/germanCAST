@@ -1,101 +1,39 @@
-<h1 align="center">Hola 👋 Soy German Castellanos</h1>
-<h3 align="center">Flutter Developer | Mobile · Clean Architecture · Riverpod</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ficha-oscuro.svg">
+  <img src="./assets/ficha-claro.svg" alt="German Castellanos, desarrollo móvil y full stack. En producción: apps para Claro Centroamérica y Movistar El Salvador. Flutter, .NET y React. Guatemala, disponible para trabajo remoto." width="100%">
+</picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Flutter+Developer+from+Guatemala+%F0%9F%87%AC%F0%9F%87%B9;Building+enterprise+mobile+apps;Clean+Architecture+%2B+Riverpod+enthusiast;Open+to+remote+work+across+LATAM" alt="Typing SVG" />
-</p>
+Construyo aplicaciones móviles y sistemas web que funcionan en producción, para empresas que atienden a muchas personas todos los días. Me hago cargo de módulos completos: desde la arquitectura hasta que la app se conecta con el resto del sistema.
 
----
+**¿Tienes un proyecto?** Escríbeme a [germancastellanose@gmail.com](mailto:germancastellanose@gmail.com) o por [LinkedIn](https://linkedin.com/in/germancast-gtm).
 
-### 🚀 Sobre mí
+## Lo que entrego
 
-Desarrollador Flutter con **+2 años de experiencia** construyendo aplicaciones móviles corporativas en producción para clientes de telecomunicaciones de alto tráfico en Centroamérica. He liderado la implementación de módulos completos —desde arquitectura hasta integración con APIs REST— en proyectos para **Claro Centroamérica** y **Movistar El Salvador**.
+- **Apps móviles en producción.** Flutter y Dart, con Riverpod y Clean Architecture. Integración nativa en Kotlin y Swift cuando la app necesita algo del teléfono que Flutter no resuelve solo.
+- **APIs y backends.** .NET y C# con Entity Framework, bases de datos PostgreSQL y MySQL, y APIs REST que otras aplicaciones consumen.
+- **Aplicaciones web.** React, Angular y TypeScript, para paneles y herramientas internas.
 
-- 🔭 Actualmente construyendo apps móviles empresariales con **Flutter + Riverpod**
-- 🏗️ Especializado en **Clean Architecture** y diseño de capas escalables
-- 🌱 Aprendiendo activamente **inglés** y profundizando en **testing** y **CI/CD para Flutter**
-- 📚 Cursando **Ingeniería en Sistemas de Información** — Universidad Mariano Gálvez (en proceso de tesis)
-- 🌎 Abierto a trabajo remoto en LATAM
-- 📫 Contacto: **germancastellanose@gmail.com**
+## Dónde ha corrido mi código
 
----
+Desde hace más de dos años construyo apps móviles corporativas en Flutter para clientes de telecomunicaciones de alto tráfico en Centroamérica, en proyectos para **Claro Centroamérica** y **Movistar El Salvador**. Ahí he liderado la implementación de módulos completos, desde la arquitectura hasta la integración con APIs REST.
 
-### 🛠️ Stack Tecnológico
+Esos proyectos son confidenciales; con gusto te cuento cómo trabajé en ellos en una conversación.
 
-**Mobile**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Riverpod-1B1F23?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-</p>
+## Cómo trabajo
 
-**Frontend & Backend**
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
+- **Arquitectura por capas desde el inicio**, para que el proyecto pueda crecer y otra persona lo entienda y lo mantenga.
+- **Módulos completos, no piezas sueltas:** la pantalla, el estado, la integración y los casos de error.
+- **Siempre mejorando:** hoy estoy profundizando en pruebas automatizadas y CI/CD para Flutter.
 
-**Bases de Datos & Herramientas**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
+## Proyectos públicos
 
----
+| Proyecto | Qué es | Con qué |
+|---|---|---|
+| [world-cup](https://github.com/germanCAST/world-cup) | App del Mundial 2026 | Flutter, Dart |
+| [clean-arch-cs](https://github.com/germanCAST/clean-arch-cs) | Buscador de cartas de Yu-Gi-Oh! con Clean Architecture | C#, .NET |
+| [qa-lite](https://github.com/germanCAST/qa-lite) y su [backend](https://github.com/germanCAST/qa-lite-backend) | Plataforma de gestión de pruebas y control de calidad | React, TypeScript, Node.js |
+| [reportes-web](https://github.com/germanCAST/reportes-web) | Reportes de soporte técnico con generación de PDF | Angular, TypeScript |
 
-### 💼 Experiencia destacada
+## Formación
 
-```dart
-final german = Developer(
-  name: 'German Castellanos',
-  role: 'Flutter Developer',
-  location: 'Guatemala 🇬🇹',
-  currentClients: ['Claro Centroamérica', 'Movistar El Salvador'],
-  expertise: [
-    'Clean Architecture',
-    'Riverpod',
-    'REST APIs',
-    'MethodChannel (Kotlin/Swift)',
-  ],
-  openToWork: true,
-  remoteLATAM: true,
-);
-```
-
-> 💡 *Los proyectos corporativos para Claro Centroamérica y Movistar El Salvador son confidenciales y no se incluyen en repositorios públicos.*
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=germanCAST&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-</p>
-
-
-
----
-
-### 🌐 Conectemos
-
-<p>
-  <a href="https://linkedin.com/in/germancast-gtm">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:germancastellanose@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
-</p>
+Ingeniería en Sistemas de Información, Universidad Mariano Gálvez de Guatemala (en etapa de tesis).
